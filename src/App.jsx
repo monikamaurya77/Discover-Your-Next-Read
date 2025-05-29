@@ -55,7 +55,7 @@ const App = () => {
         <button className="surprise" onClick={handleSurpriseMe}>Surprise Me!</button>
       </div>
 
-      {loading ? <p>Loading...</p> : <BookList books={books} />}
+      {loading ? <p className='loading'>Loading...</p> : <BookList books={books} />}
     </div>
   );
 };

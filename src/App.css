@@ -76,7 +76,7 @@ button.surprise:hover {
 }
 
 .loading {
-  text-align: center;
+  text-align: center !important;
   font-style: italic;
   color: #666;
   margin-top: 40px;
