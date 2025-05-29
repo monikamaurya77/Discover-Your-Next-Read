@@ -11,7 +11,7 @@ Built for the KraftPixel Frontend Developer Assignment using the Open Library AP
 
 ## 🚀 Live Demo
 
-🌐 [Click here to view live](https://your-vercel-link.vercel.app)
+🌐 [Click here to view live](https://discover-your-next-read.vercel.app/)
 
 ---
 
