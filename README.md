@@ -91,5 +91,5 @@ src/
 ## 👩‍💻 Author
 
 **Monika Maurya**  
-[LinkedIn](https://linkedin.com/in/yourprofile)  
-Email: youremail@example.com  
+[LinkedIn](https://www.linkedin.com/in/monika-maurya/)  
+Email: monikamaurya120@gmail.com  
